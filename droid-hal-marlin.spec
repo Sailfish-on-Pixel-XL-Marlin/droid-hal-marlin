@@ -11,6 +11,18 @@
 
 %define installable_zip 1
 
+%define straggler_files \
+/bugreports\
+/cache\
+/d\
+/dsp\
+/product\
+/product_services\
+/sdcard\
+/system_ext\
+/verity_key\
+%{nil}
+
 %include rpm/dhd/droid-hal-device.inc
 
 # IMPORTANT if you want to comment out any macros in your .spec, delete the %
