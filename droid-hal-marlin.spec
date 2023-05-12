@@ -4,6 +4,8 @@
 %define device marlin
 %define vendor google
 
+%define droid_target_aarch64 1
+
 %define vendor_pretty Google
 %define device_pretty Pixel XL
 
