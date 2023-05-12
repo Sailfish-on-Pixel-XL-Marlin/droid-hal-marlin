@@ -17,7 +17,6 @@
 /d\
 /dsp\
 /product\
-/product_services\
 /sdcard\
 /system_ext\
 /verity_key\
